@@ -1,0 +1,18 @@
+body{
+   background-image: url(Фон.jpg);
+   background-size: 100%;
+   background-attachment: fixed;
+}
+.foto-1{
+    width: 100%;
+}
+h4{
+    color: aliceblue;
+}
+p{
+    text-align: center;
+    color: rgb(245, 201, 3);
+    padding: 5px;
+    font-size: 20pt;
+    background-color: rgb(95, 100, 19);
+}
